@@ -27,14 +27,19 @@ dedicated managment system named *Hilbert* is used and startup is done by a
 number of scripts. You won't need that additional layer of complexity for an individual use case. For an automatized museum setup find more details about it below. 
 The startup scripts are used for the more complex applications that consist of several programs that need to run hand-in-hand.
 
-Browser-based applications:
-  - [Day / Night / Seasons](https://gitlab.com/HITS_Supernova/0203_daynight)
-  - [Moon phases / Eclipses](https://gitlab.com/HITS_Supernova/0206_moonphaseseclipses)
-  - [Habitable zones](https://gitlab.com/HITS_Supernova/0506_habitablezones)
-  - [Chilean Night Sky](https://gitlab.com/HITS_Supernova/0612_chileannightsky)
+Browser-based applications:  
 
-Applications that consist of multiple programs or/and use a specific hardware setup:
-  - *coming soon!*
+  - [Day / Night / Seasons](https://gitlab.com/HITS_Supernova/0203_daynight)  
+  - [Moon phases / Eclipses](https://gitlab.com/HITS_Supernova/0206_moonphaseseclipses)  
+  - [Habitable zones](https://gitlab.com/HITS_Supernova/0506_habitablezones)  
+  - [Chilean Night Sky](https://gitlab.com/HITS_Supernova/0612_chileannightsky)  
+
+Applications that consist of multiple programs or/and use a specific hardware setup:  
+
+  - [Projection on a Half-sphere](https://gitlab.com/HITS_Supernova/0202_halfsphere.git)  
+  - [Paranal / ALMA Webcam](https://gitlab.com/HITS_Supernova/0702_paranalalmawebcam.git)  
+  - [Milky Way Panorama](https://gitlab.com/HITS_Supernova/1007_milkywaypanorama.git)  
+  - *more coming soon!*
 
 
 ## Hilbert museum management system
