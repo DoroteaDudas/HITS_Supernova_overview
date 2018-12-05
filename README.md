@@ -31,14 +31,17 @@ Browser-based applications:
 
   - [Day / Night / Seasons](https://gitlab.com/HITS_Supernova/0203_daynight)  
   - [Moon phases / Eclipses](https://gitlab.com/HITS_Supernova/0206_moonphaseseclipses)  
+  - [Stellar Evolution](https://gitlab.com/HITS_Supernova/0415_stellarevolution)  
   - [Habitable zones](https://gitlab.com/HITS_Supernova/0506_habitablezones)  
   - [Chilean Night Sky](https://gitlab.com/HITS_Supernova/0612_chileannightsky)  
+  - [Astronomical Image Processing](https://gitlab.com/HITS_Supernova/0807_astroimage)  
+  - [Time Relativity](https://gitlab.com/HITS_Supernova/1206_timerelativity)  
 
 Applications that consist of multiple programs or/and use a specific hardware setup:  
 
-  - [Projection on a Half-sphere](https://gitlab.com/HITS_Supernova/0202_halfsphere.git)  
-  - [Paranal / ALMA Webcam](https://gitlab.com/HITS_Supernova/0702_paranalalmawebcam.git)  
-  - [Milky Way Panorama](https://gitlab.com/HITS_Supernova/1007_milkywaypanorama.git)  
+  - [Projection on a Half-sphere](https://gitlab.com/HITS_Supernova/0202_halfsphere)  
+  - [Paranal / ALMA Webcam](https://gitlab.com/HITS_Supernova/0702_paranalalmawebcam)  
+  - [Milky Way Panorama](https://gitlab.com/HITS_Supernova/1007_milkywaypanorama)  
   - *more coming soon!*
 
 
