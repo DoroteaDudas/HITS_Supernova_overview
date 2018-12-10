@@ -105,6 +105,11 @@ status of the exhibition in general.
 
 ## Git repositories
 
+**Important:** _The repositories generally use the
+[Git LFS](https://git-lfs.github.com) feature to handle large file versioning.
+You need to install and activate Git LFS on your computer before cloning the
+repository, otherwise you will end up with missing content for these files._
+
 Several of the project repositories rely on git submodules. Sometimes this is
 due to the usage of externally maintainted repositories, sometimes re-use for
 other ESO Supernova interactives, sometimes simply for historic reasons.
