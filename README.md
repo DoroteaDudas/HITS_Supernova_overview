@@ -41,8 +41,8 @@ Applications that consist of multiple programs or/and use a specific hardware se
 
   - [Projection on a Half-sphere](https://gitlab.com/HITS_Supernova/0202_halfsphere)  
   - [Paranal / ALMA Webcam](https://gitlab.com/HITS_Supernova/0702_paranalalmawebcam)  
+  - [Galaxy Collision](https://gitlab.com/HITS_Supernova/1006_galaxycollisiontable) 
   - [Milky Way Panorama](https://gitlab.com/HITS_Supernova/1007_milkywaypanorama)  
-  - *more coming soon!*
 
 
 ## Hilbert museum management system
