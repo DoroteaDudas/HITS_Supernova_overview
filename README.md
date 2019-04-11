@@ -27,8 +27,9 @@ dedicated managment system named *Hilbert* is used and startup is done by a
 number of scripts. You won't need that additional layer of complexity for an individual use case. For an automatized museum setup find more details about it below. 
 The startup scripts are used for the more complex applications that consist of several programs that need to run hand-in-hand.
 
-Browser-based applications:  
+Browser-based applications (GitLab repositories use LFS, so downloading an archive omits images):  
 
+<!--
   - [Day / Night / Seasons](https://gitlab.com/HITS_Supernova/0203_daynight)  
   - [Moon phases / Eclipses](https://gitlab.com/HITS_Supernova/0206_moonphaseseclipses)  
   - [Stellar Evolution](https://gitlab.com/HITS_Supernova/0415_stellarevolution)  
@@ -36,8 +37,52 @@ Browser-based applications:
   - [Chilean Night Sky](https://gitlab.com/HITS_Supernova/0612_chileannightsky)  
   - [Astronomical Image Processing](https://gitlab.com/HITS_Supernova/0807_astroimage)  
   - [Time Relativity](https://gitlab.com/HITS_Supernova/1206_timerelativity)  
+-->
 
-Applications that consist of multiple programs or/and use a specific hardware setup:  
+<table align="center">
+    <tr>
+    <td align="left">GitLab (LFS)</td>
+    <td align="left">&nbsp;&nbsp;</td>
+    <td align="left">GitHub (no LFS, can download everything in .zip archive)</td>
+    </tr>
+    <tr>
+    <td align="left">&#8226; <a href="https://gitlab.com/HITS_Supernova/0203_daynight">Day / Night / Seasons</a> </td>
+    <td align="left">&nbsp;&nbsp;</td>
+    <td align="left">&#8226; <a href="https://github.com/DoroteaDudas/HITS_Supernova_0203_daynight">Day / Night / Seasons</a> </td>
+    </tr>
+    <tr>
+    <td align="left">&#8226; <a href="https://gitlab.com/HITS_Supernova/0206_moonphaseseclipses">Moon phases / Eclipses</a> </td>
+    <td align="left">&nbsp;&nbsp;</td>
+    <td align="left">&#8226; <a href="https://github.com/DoroteaDudas/HITS_Supernova_0206_moonphaseseclipses">Moon phases / Eclipses</a> </td>
+    </tr>
+    <tr>
+    <td align="left">&#8226; <a href="https://gitlab.com/HITS_Supernova/0415_stellarevolution">Stellar Evolution</a> </td>
+    <td align="left">&nbsp;&nbsp;</td>
+    <td align="left">&#8226; <a href="https://github.com/DoroteaDudas/HITS_Supernova_0415_stellarevolution">Stellar Evolution</a> </td>
+    </tr>
+    <tr>
+    <td align="left">&#8226; <a href="https://gitlab.com/HITS_Supernova/0506_habitablezones">Habitable zones</a> </td>
+    <td align="left">&nbsp;&nbsp;</td>
+    <td align="left">&#8226; <a href="https://github.com/DoroteaDudas/HITS_Supernova_0506_habitablezones">Habitable zones</a> </td>
+    </tr>
+    <tr>
+    <td align="left">&#8226; <a href="https://gitlab.com/HITS_Supernova/0612_chileannightsky">Chilean Night Sky</a> </td>
+    <td align="left">&nbsp;&nbsp;</td>
+    <td align="left">&#8226; <a href="https://github.com/DoroteaDudas/HITS_Supernova_0612_chileannightsky">Chilean Night Sky</a> </td>
+    </tr>
+    <tr>
+    <td align="left">&#8226; <a href="https://gitlab.com/HITS_Supernova/0807_astroimage">Astronomical Image Processing</a> </td>
+    <td align="left">&nbsp;&nbsp;</td>
+    <td align="left">&#8226; <a href="https://github.com/DoroteaDudas/HITS_Supernova_0807_astroimage">Astronomical Image Processing</a> </td>
+    </tr>
+    <tr>
+    <td align="left">&#8226; <a href="https://gitlab.com/HITS_Supernova/1206_timerelativity">Time Relativity</a> </td>
+    <td align="left">&nbsp;&nbsp;</td>
+    <td align="left">&#8226; <a href="https://github.com/DoroteaDudas/HITS_Supernova_1206_timerelativity">Time Relativity</a> </td>
+    </tr>
+</table>
+
+Applications that consist of multiple programs or/and use a specific hardware setup (GitLab only):  
 
   - [Projection on a Half-sphere](https://gitlab.com/HITS_Supernova/0202_halfsphere)  
   - [Paranal / ALMA Webcam](https://gitlab.com/HITS_Supernova/0702_paranalalmawebcam)  
