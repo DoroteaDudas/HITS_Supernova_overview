@@ -42,43 +42,43 @@ Browser-based applications (GitLab repositories use LFS, so downloading an archi
 <table align="center">
     <tr>
     <td align="left">GitLab (LFS)</td>
-    <td align="left">&nbsp;&nbsp;</td>
     <td align="left">GitHub (no LFS, can download everything in .zip archive)</td>
+    <td align="left">Demos</td>
     </tr>
     <tr>
     <td align="left">&#8226; <a href="https://gitlab.com/HITS_Supernova/0203_daynight">Day / Night / Seasons</a> </td>
-    <td align="left">&nbsp;&nbsp;</td>
     <td align="left">&#8226; <a href="https://github.com/DoroteaDudas/HITS_Supernova_0203_daynight">Day / Night / Seasons</a> </td>
+    <td align="left">&#8226; <a href="http://dorotea.info/WebGL/WebGL_DayNight/webgl_DayNightSeasons.html">Demo link</a> </td>
     </tr>
     <tr>
     <td align="left">&#8226; <a href="https://gitlab.com/HITS_Supernova/0206_moonphaseseclipses">Moon phases / Eclipses</a> </td>
-    <td align="left">&nbsp;&nbsp;</td>
     <td align="left">&#8226; <a href="https://github.com/DoroteaDudas/HITS_Supernova_0206_moonphaseseclipses">Moon phases / Eclipses</a> </td>
+    <td align="left">&#8226; <a href="http://dorotea.info/WebGL/WebGL_MoonPhases/webgl_MoonPhasesEclipses.html">Demo link</a> </td>
     </tr>
     <tr>
     <td align="left">&#8226; <a href="https://gitlab.com/HITS_Supernova/0415_stellarevolution">Stellar Evolution</a> </td>
-    <td align="left">&nbsp;&nbsp;</td>
     <td align="left">&#8226; <a href="https://github.com/DoroteaDudas/HITS_Supernova_0415_stellarevolution">Stellar Evolution</a> </td>
+    <td align="left">&#8226; <a href="http://dorotea.info/WebGL/WebGL_StellarEvolution/webgl_Stars.html">Demo link</a> </td>
     </tr>
     <tr>
     <td align="left">&#8226; <a href="https://gitlab.com/HITS_Supernova/0506_habitablezones">Habitable zones</a> </td>
-    <td align="left">&nbsp;&nbsp;</td>
     <td align="left">&#8226; <a href="https://github.com/DoroteaDudas/HITS_Supernova_0506_habitablezones">Habitable zones</a> </td>
+    <td align="left">&#8226; <a href="http://dorotea.info/WebGL/WebGL_HabitableZones/webgl_HabitableZones.html">Demo link</a> </td>
     </tr>
     <tr>
     <td align="left">&#8226; <a href="https://gitlab.com/HITS_Supernova/0612_chileannightsky">Chilean Night Sky</a> </td>
-    <td align="left">&nbsp;&nbsp;</td>
     <td align="left">&#8226; <a href="https://github.com/DoroteaDudas/HITS_Supernova_0612_chileannightsky">Chilean Night Sky</a> </td>
+    <td align="left">&#8226; <a href="http://dorotea.info/WebGL/WebGL_ChileanNightSky/webgl_LightPollution.html">Demo link</a> </td>
     </tr>
     <tr>
     <td align="left">&#8226; <a href="https://gitlab.com/HITS_Supernova/0807_astroimage">Astronomical Image Processing</a> </td>
-    <td align="left">&nbsp;&nbsp;</td>
     <td align="left">&#8226; <a href="https://github.com/DoroteaDudas/HITS_Supernova_0807_astroimage">Astronomical Image Processing</a> </td>
+    <td align="left">&#8226; <a href="http://dorotea.info/WebGL/WebGL_AstroImage/webgl_AstroImage_p1.html">Demo link</a> </td>
     </tr>
     <tr>
     <td align="left">&#8226; <a href="https://gitlab.com/HITS_Supernova/1206_timerelativity">Time Relativity</a> </td>
-    <td align="left">&nbsp;&nbsp;</td>
     <td align="left">&#8226; <a href="https://github.com/DoroteaDudas/HITS_Supernova_1206_timerelativity">Time Relativity</a> </td>
+    <td align="left">&#8226; <a href="http://dorotea.info/WebGL/WebGL_TimeRelativity/webgl_TimeRelativity.html?n=star">Demo link</a> </td>
     </tr>
 </table>
 
